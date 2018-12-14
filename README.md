@@ -87,6 +87,7 @@ The dockerfile will run only one time and then each stage mentioned in the docke
 	    command: java -jar /usr/app/product-service-0.0.1-SNAPSHOT.jar --spring.profiles.active=docker
     
    Contributors
+   
      Fatma NAJJAR
      Souha AMRI
     
